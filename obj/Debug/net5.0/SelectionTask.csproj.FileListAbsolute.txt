@@ -1,0 +1,32 @@
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.exe
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\bin\Debug\net5.0\SelectionTask.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.csprojAssemblyReference.cache
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\SelectionTask\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.exe
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.deps.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.runtimeconfig.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.runtimeconfig.dev.json
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\bin\Debug\net5.0\SelectionTask.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.csprojAssemblyReference.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.AssemblyInfoInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.AssemblyInfo.cs
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.csproj.CoreCompileInputs.cache
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\ref\SelectionTask.dll
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.pdb
+C:\Users\xsupe\Desktop\Uni\VSC\Programs\SelectionTask\Fizz Buzz\obj\Debug\net5.0\SelectionTask.genruntimeconfig.cache
